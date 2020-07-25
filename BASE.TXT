@@ -1,0 +1,31 @@
+
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]MESSATSU![/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia601502.us.archive.org/19/items/akumaaddon2/bemvindo.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601502.us.archive.org/19/items/akumaaddon2/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] Addon sem fins lucrativos. Apenas para membros da família! [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia601502.us.archive.org/19/items/akumaaddon2/entrar.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601502.us.archive.org/19/items/akumaaddon2/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] Addon sem fins lucrativos. Apenas para membros da família! [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
