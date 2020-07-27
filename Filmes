@@ -1,7 +1,7 @@
 <item>
 <title>[B]Sonic - O Filme [COLOR yellow](2020)[/COLOR] - [COLOR lime](720P)[/COLOR]DUBLADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamhttps://drive.google.com/file/d/1rXsgqtOKxg9YQCtoA4qw5k5xw3m0RuPG/view&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rXsgqtOKxg9YQCtoA4qw5k5xw3m0RuPG/view$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
 <link>URL AQUI$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
